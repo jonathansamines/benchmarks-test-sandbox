@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Random tests with various profiling and bechmarking tools",
   "main": "fastbench-test.js",
-  "dependencies": {},
   "devDependencies": {
+    "cronometro": "^1.0.2",
     "debug": "^4.3.3",
     "fastbench": "^1.0.1"
   },
