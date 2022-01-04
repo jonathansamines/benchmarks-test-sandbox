@@ -1,0 +1,25 @@
+{
+  "name": "benchmarks-test-sandbox",
+  "version": "1.0.0",
+  "description": "Random tests with various profiling and bechmarking tools",
+  "main": "fastbench-test.js",
+  "dependencies": {},
+  "devDependencies": {
+    "debug": "^4.3.3",
+    "fastbench": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathansamines/benchmarks-test-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathansamines/benchmarks-test-sandbox/issues"
+  },
+  "homepage": "https://github.com/jonathansamines/benchmarks-test-sandbox#readme"
+}
